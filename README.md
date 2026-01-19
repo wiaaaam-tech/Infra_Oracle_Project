@@ -1,7 +1,5 @@
-# Infra_Oracle_Project
+# Infra_Oracle_Project  ( DIGI_NETWORK )
 Projet complet de gestion d’infrastructure Systèmes &amp; Réseaux + Oracle 19c &amp; Linux
-
-🛠️ DIGI_NETWORK: Infrastructure Management & Oracle 19c Project
 
 📖 Contexte
 En tant que Technicienne Spécialiste Systèmes & Réseaux et Junior Oracle DBA, j’ai travaillé sur le projet DIGI_NETWORK, visant à simuler une infrastructure IT d’entreprise. Mon rôle consistait à :
