@@ -2,6 +2,7 @@
 Projet complet de gestion d’infrastructure Systèmes &amp; Réseaux + Oracle 19c &amp; Linux
 
 📖 Contexte
+
 En tant que Technicienne Spécialiste Systèmes & Réseaux et Junior Oracle DBA, j’ai travaillé sur le projet DIGI_NETWORK, visant à simuler une infrastructure IT d’entreprise. Mon rôle consistait à :
 
 Déployer une base Oracle 19c Multitenant pour centraliser les données sur équipements, utilisateurs et services.
